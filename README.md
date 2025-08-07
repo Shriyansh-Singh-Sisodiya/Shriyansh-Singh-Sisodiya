@@ -33,7 +33,7 @@
 ## 🧩 Projects
 
 - 🔗 [**Daily Blog Website**](https://blog-app-azure-gamma.vercel.app/) – Full MERN stack blog with category filtering & saving posts
-- 🔗 [**E-Commerce SnapSoap Website**](https://ecommerce-snap-shop.vercel.app//) – A dynamic React-based eCommerce web app with cart functionality, product detail pages, and modern UI
+- 🔗 [**E-Commerce SnapSoap Website**](https://ecommerce-snap-shop.vercel.app//) – A React-based eCommerce with cart functionality, product detail pages, and modern UI
 - 🔗 [**SNKRNest Website**](https://shriyansh-singh-sisodiya.github.io/snkernest/) – Frontend static sneaker website built using HTML/CSS
 
 ---
