@@ -1,16 +1,19 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" alt="Animated Neon Coding Banner" />
-</p>
-
 
 # 👋 Hi there, I'm Shriyansh Singh Sisodiya
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shriyansh-Singh-Sisodiya&color=blue)
 
 💻 A passionate MERN Stack Developer  
 🎯 Focused on building full-stack applications using modern web technologies  
 🎓 B.Tech CSE Graduate | Open to work & collaborations  
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" alt="Animated Neon Coding Banner" />
+</p>
 
+
+----
 ## 🧠 Tech Stack
 
 **Languages:**  
@@ -18,6 +21,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -35,6 +39,24 @@
 - 🔗 [**Daily Blog Website**](https://blog-app-azure-gamma.vercel.app/) – Full MERN stack blog with category filtering & saving posts
 - 🔗 [**E-Commerce SnapSoap Website**](https://ecommerce-snap-shop.vercel.app//) – A React-based eCommerce with cart functionality, product detail pages, and modern UI
 - 🔗 [**SNKRNest Website**](https://shriyansh-singh-sisodiya.github.io/snkernest/) – Frontend static sneaker website built using HTML/CSS
+
+---
+
+## 🚀 Currently Learning
+
+- 🔧 TypeScript and Advanced React
+- 📦 Next.js & Backend with MongoDB
+- 📱 Building responsive designs with Tailwind CSS
+
+## 🎯 2025 Goals
+
+- 🔨 Build 5 full-stack projects
+- 👨‍💻 Contribute to open source
+- 💼 Get placed at a good tech company
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 
